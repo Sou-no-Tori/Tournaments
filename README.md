@@ -1,6 +1,6 @@
 # LibreOffice Sheet
-The document works for either 40 or 44 people and 8 hanchan.
-The document adjusts itself automatically depending on whether or not there is a name for Player 41 in the Number Assignments sheet.
+The document currently works for 40 people and 8 hanchan (some provisions for 44 people are made).
+Simply enter the player names in the "Number Assignments" sheet.
 
 # Solver
 We used [LocalSolver](http://www.localsolver.com) in order to generate the seating.
